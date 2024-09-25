@@ -5,6 +5,7 @@
 */
 
 (function($) {
+	$(".rvs-container").rvslider();
 
 	var	$window = $(window),
 		$body = $('body'),
